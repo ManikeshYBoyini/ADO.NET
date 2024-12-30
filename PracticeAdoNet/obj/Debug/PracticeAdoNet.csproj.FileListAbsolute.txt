@@ -1,0 +1,14 @@
+C:\Users\m_boyini\source\repos\PracticeAdoNet\PracticeAdoNet\bin\Debug\PracticeAdoNet.exe.config
+C:\Users\m_boyini\source\repos\PracticeAdoNet\PracticeAdoNet\bin\Debug\PracticeAdoNet.exe
+C:\Users\m_boyini\source\repos\PracticeAdoNet\PracticeAdoNet\bin\Debug\PracticeAdoNet.pdb
+C:\Users\m_boyini\source\repos\PracticeAdoNet\PracticeAdoNet\obj\Debug\PracticeAdoNet.csprojAssemblyReference.cache
+C:\Users\m_boyini\source\repos\PracticeAdoNet\PracticeAdoNet\obj\Debug\PracticeAdoNet.csproj.CoreCompileInputs.cache
+C:\Users\m_boyini\source\repos\PracticeAdoNet\PracticeAdoNet\obj\Debug\PracticeAdoNet.exe
+C:\Users\m_boyini\source\repos\PracticeAdoNet\PracticeAdoNet\obj\Debug\PracticeAdoNet.pdb
+M:\Professional\CSharpMaterial\PracticeAdoNet\PracticeAdoNet\PracticeAdoNet\bin\Debug\PracticeAdoNet.exe.config
+M:\Professional\CSharpMaterial\PracticeAdoNet\PracticeAdoNet\PracticeAdoNet\bin\Debug\PracticeAdoNet.exe
+M:\Professional\CSharpMaterial\PracticeAdoNet\PracticeAdoNet\PracticeAdoNet\bin\Debug\PracticeAdoNet.pdb
+M:\Professional\CSharpMaterial\PracticeAdoNet\PracticeAdoNet\PracticeAdoNet\obj\Debug\PracticeAdoNet.csproj.AssemblyReference.cache
+M:\Professional\CSharpMaterial\PracticeAdoNet\PracticeAdoNet\PracticeAdoNet\obj\Debug\PracticeAdoNet.csproj.CoreCompileInputs.cache
+M:\Professional\CSharpMaterial\PracticeAdoNet\PracticeAdoNet\PracticeAdoNet\obj\Debug\PracticeAdoNet.exe
+M:\Professional\CSharpMaterial\PracticeAdoNet\PracticeAdoNet\PracticeAdoNet\obj\Debug\PracticeAdoNet.pdb
